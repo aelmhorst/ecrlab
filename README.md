@@ -22,4 +22,5 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 
-Running a test new
+Running a test now
+
