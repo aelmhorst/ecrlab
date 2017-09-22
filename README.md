@@ -22,7 +22,5 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Hello world!
 =======
-# ecrlab
 >>>>>>> c83202f1d715ae2a3ab0bac15dd1aa7ea1a572de
